@@ -272,5 +272,5 @@ plt.show()
 ![png](nonUniformty-trajectory.png)
 
 ## Github link:
-* ## Task1:
+* ## Task1: https://github.com/Ghada-Adel-Abdelaziz/MRI_Task1
 * ## Task 2: https://github.com/Ghada-Adel-Abdelaziz/MRI_Task2
