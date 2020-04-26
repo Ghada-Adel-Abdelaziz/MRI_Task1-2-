@@ -30,7 +30,7 @@ from numpy.fft import fftshift, ifftshift, fftn, ifftn
 matplotlib.rcParams['font.size'] = 8.0
 np.random.seed(19680801)
 
-img = cv2.imread('C:\\Users\\Ghada\\Downloads\\Brain-MRI.png', 0)
+img = cv2.imread('Brain-MRI.png', 0)
 dim = range(img.ndim)
 
 k = fftshift(fftn(ifftshift(img, axes=dim), s=None, axes=dim), axes=dim)
