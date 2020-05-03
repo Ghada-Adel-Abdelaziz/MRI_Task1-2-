@@ -58,7 +58,7 @@ plt.show()
 ```
 
 
-![png](Brain-MRI-K-space)
+![png](Brain-MRI-K-space.png)
 
 * ## Larmor frequency
 ```c
